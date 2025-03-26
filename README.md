@@ -4,10 +4,11 @@
 This is a basic web application built using HTML and CSS.
 
 ## Project Structure
-Short_Form_Video_WebApp/
-├── index.html       # Main HTML file
-├── style.css        # Stylesheet
-└── README.md        # This file
+Short_Form_Video_WebApp/ <br>
+├── index.html       # Main HTML file <br>
+├── style.css        # Stylesheet <br>
+└── README.md        # This file <br>
+
 
 ## Getting Started
 
