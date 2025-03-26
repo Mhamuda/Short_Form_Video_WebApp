@@ -1,10 +1,30 @@
 
   # myShopify Task
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+This is a basic web application built using HTML and CSS.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+## Project Structure
+Short_Form_Video_WebApp/
+├── index.html       # Main HTML file
+├── style.css        # Stylesheet
+└── README.md        # This file
+
+## Getting Started
+
+1.  **Clone the repository (optional):** If you have the project in a Git repository, you can clone it to your local machine:
+
+    ```bash
+    git clone <repository_url>
+    ```
+
+2.  **Open `index.html`:** Simply open the `index.html` file in your web browser. You can do this by double-clicking the file or dragging it into your browser window.
+
+## Technologies Used
+
+* **HTML:** For structuring the content of the web page.
+* **CSS:** For styling the web page.
+
+## Customization
+
+* **HTML:** Modify the `index.html` file to change the content and structure of the web page.
+* **CSS:** Edit the `style.css` file to customize the appearance of the web page.
